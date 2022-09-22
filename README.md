@@ -8,7 +8,7 @@ Expected time of completion is around 2-4 hours of development, fitting the mini
 We have setup a basic React-Native app as a starting point for you Basic-Fit Tech weather app. You can use any packages, libraries as you like to meet the minimal requirements of this assignment.
 
 ## Minimum requirements
-Typescript
-navigation between 2 screens
-One screen showing the weather of Basic-Fit Tech office in Tilburg
-One screen screen showing the weather of Basic-Fit HQ in Hoofddorp
+- Typescript
+- navigation between 2 screens
+- One screen showing the weather of Basic-Fit Tech office in Tilburg
+- One screen screen showing the weather of Basic-Fit HQ in Hoofddorp
