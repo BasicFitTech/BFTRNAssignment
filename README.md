@@ -26,4 +26,4 @@ This screen should minimally show the current weather of the Tech office in Tilb
 This screen should minimally show the current weather of the HQ in Hoofddorp.
 
 ### Extra credit
-- Extended weather information (for the coming days)
+![](https://i.imgflip.com/6uedyz.jpg)
