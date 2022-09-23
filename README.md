@@ -15,7 +15,9 @@ Once you are satisfied in your progress, please return a link to your forked cod
 ## Project script
 For this assignment we assume we are building an application that shows us the weather at our offices and clubs. But a first iteration will be that we want to know the weather for our Tech office in Tilburg and the HQ in Hoofddorp. 
 ### Data
-There are plenty of weather APIs available so pick one of your liking and used that to gather the weather data for the wanted locations.
+We picked Weatherstack ([docs](https://weatherstack.com/documentation)) as our source for getting the weather data. Feel free to use other sources if you want or feel more comfortable with. See the example url below for an API access key to use so you don't have to go through the hassle to create an account 
+
+example: http://api.weatherstack.com/current?access_key=e00d38898be8c31d51aeade6e5c15307&query=Tilburg
 
 ### Screens
 #### Basic-Fit Tech
